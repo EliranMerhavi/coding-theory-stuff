@@ -8,5 +8,5 @@ i find that the coding thory field in computer science to be one of the most use
 
 some of the algorithms i learned are shown in this repo yet
 
-in this repo there are implementations both in cpp and python on random topics in the field
+in this repo there are implementations both in cpp and python on random topics in the field.
 i know this repo is a bit messy ill organize this when ill have the time
